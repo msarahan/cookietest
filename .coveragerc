@@ -1,0 +1,5 @@
+[report]
+omit =
+    setup.py
+    cookietest/__main__.py
+    tests/*

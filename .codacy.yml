@@ -1,0 +1,8 @@
+---
+exclude_paths:
+  - 'cookietest/_version.py'
+  - 'tests/**/*'
+  - 'tests/*'
+  - 'benchmarks/**/*'
+  - 'setup.py'
+  - 'versioneer.py'
